@@ -6,7 +6,7 @@
 
 - [x] TP ° 0 : Étude d'un VLAN
 - [x] TP ° 1 : Installation et configuration de services courants
-- [] TP ° 2 : Configuration de services DHCP et DNS
+- [ ] TP ° 2 : Configuration de services DHCP et DNS
 
 &emsp;
 
