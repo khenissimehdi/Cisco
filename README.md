@@ -6,7 +6,8 @@
 
 - [x] TP ° 0 : Étude d'un VLAN
 - [x] TP ° 1 : Installation et configuration de services courants
-- [ ] TP ° 2 : Configuration de services DHCP et DNS
+- [x] TP ° 2 : Configuration de services DHCP et DNS
+- [x] TP ° 3 : NAT - Traduction d'adresses IP
 
 &emsp;
 
