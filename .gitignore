@@ -1,0 +1,15 @@
+#####################################
+#### Liste des fichiers ignorés  ####
+#####################################
+
+
+*.DS_Store
+*.idea
+*.log
+*.aux
+*.synctex.gz
+Icon\r
+Icon%0D
+Icon
+Icon?
+*.swp
